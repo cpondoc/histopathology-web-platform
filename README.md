@@ -1,6 +1,6 @@
 # Histopathology Web Platform
 
-This is a platform dedicated to infering histopathological images.
+This is a platform dedicated to infering histopathological images. This work builds off previously published work at the PEARC 20 Conference, specifically with the paper "A Pilot Benchmarking Study of Deep Neural Network Performance on Low Magnification Pathology Region-of-Interest Images."
 
 ## Flask API Set-Up
 
