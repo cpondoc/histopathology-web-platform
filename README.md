@@ -1,2 +1,11 @@
 # Histopathology Web Platform
-Platform enabling pathologists to inference ROI images with the carcinoma or sarcoma task. Built with a React frontend and a Flask backend.
+
+This is a platform dedicated to infering histopathological images.
+
+## Flask API Set-Up
+
+For the Flask API, make sure to navigate to the <code>api</code> folder. Then, in the terminal, run <code>export FLASK_ENV=api.py</code>. Finally, run the program by executing <code>python3 -m flask run</code>.
+
+## React Front-End Set-Up
+
+To install all the necessary dependencies, start by running <code>npm install</code>. Then, navigate into the folder and run <code>yarn start</code>.
